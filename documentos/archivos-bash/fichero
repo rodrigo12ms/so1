@@ -1,0 +1,5 @@
+#!/bin/bash
+mkdir automatica
+cd automatica
+touch autogenerado
+
